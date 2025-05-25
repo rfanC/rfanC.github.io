@@ -1,0 +1,70 @@
+/* custom.css */
+
+body {
+  background-color: #fefcf9; /* 淡奶油色背景 */
+  color: #333333; /* 深灰文字 */
+  font-family: "Hiragino Mincho ProN", "游明朝", "Yu Mincho", serif;
+  font-weight: 400;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  font-size: 18px;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Hiragino Mincho ProN", serif;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: #222222;
+}
+
+p, li {
+  font-family: "Hiragino Mincho ProN", serif;
+  margin-bottom: 1.25rem;
+}
+
+code, kbd, pre, samp {
+  font-family: "Courier New", Courier, "American Typewriter", monospace;
+  background-color: #f4f4f4;
+  padding: 0.15em 0.3em;
+  border-radius: 3px;
+  font-size: 0.95em;
+}
+
+a {
+  color: #555555;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.3s ease;
+}
+
+a:hover, a:focus {
+  border-bottom: 1px solid #555555;
+  outline: none;
+}
+
+nav.site-nav {
+  font-family: "Courier New", Courier, "American Typewriter", monospace;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  background: transparent;
+  padding: 1rem 0;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+nav.site-nav a {
+  margin: 0 1.2rem;
+  color: #444444;
+}
+
+nav.site-nav a:hover {
+  color: #000000;
+  border-bottom: 1px solid #000000;
+}
