@@ -1,8 +1,8 @@
 /* custom.css */
 
 body {
-  background-color: #fefcf9; /* 淡奶油色背景 */
-  color: #333333; /* 深灰文字 */
+  background-color: #fefcf9 !important; /* 加上 !important */
+  color: #333333;
   font-family: "Hiragino Mincho ProN", "游明朝", "Yu Mincho", serif;
   font-weight: 400;
   line-height: 1.7;
