@@ -1,1 +1,8 @@
-
+- name: 首頁
+  url: /
+- name: 關於我們
+  url: /about/
+- name: 聯繫我們
+  url: /contact/
+- name: GitHub
+  url: https://github.com/rfanc
