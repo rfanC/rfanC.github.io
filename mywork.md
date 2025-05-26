@@ -8,7 +8,7 @@ permalink: /mywork/
 
 - [作品一](works.md/Thesedimentary.html)
 - 
-- [作品二](works/work2.html)
+- [作品二](works.md/Thesedimentary.html)
 - 
 - [作品三](works/work3.html)
 
