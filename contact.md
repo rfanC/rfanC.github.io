@@ -13,4 +13,4 @@ permalink: /contact/
   Facebook : <a href="https://www.facebook.com/cao.rui.fan.2025" target="_blank">曹睿凡</a>
 </p>
 
-我爸是警察，請勿意圖詐騙。
+
