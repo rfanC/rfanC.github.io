@@ -8,9 +8,9 @@ permalink: /contact/
 
 電子郵件：rf.caooooo@gmail.com
 
-FB：
+FB：https://www.facebook.com/cao.rui.fan.2025?
 
-IG：
+IG：https://www.instagram.com/rf__c__?igsh=MWQxcjMzMTA4bWNhbQ%3D%3D&utm_source=qr
 
 Line：
 
