@@ -6,7 +6,7 @@ permalink: /mywork/
 
 以下是我的部分作品：
 
-- [牧羊犬](works.md/Thesheepdog.html)
+- [牧羊犬](works.md/sheepdog.html)
 
 - [作品二](works.md/Thesedimentary.html)
 
