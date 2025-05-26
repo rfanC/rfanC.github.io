@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 創作 Art Works
-permalink: /works/
+permalink: /works.md/
 ---
 
 以下是我的部分作品：
