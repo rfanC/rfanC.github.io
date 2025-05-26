@@ -1,8 +1,8 @@
 - name: 首頁
   url: https://rfanc.github.io/
-- name: 關於我們
+- name: 關於我
   url: /about/
-- name: 聯繫我們
+- name: 找我嗎？
   url: /contact/
 - name: 我的作品
   url: /_data/mywork.md
