@@ -6,7 +6,7 @@ permalink: /mywork/
 
 以下是我的部分作品：
 
-- [作品一](works.md/The sedimentary.html)
+- [作品一](works.md/Thesedimentary.html)
 - 
 - [作品二](works/work2.html)
 - 
