@@ -14,16 +14,16 @@ permalink: /mywork/
 
 - [大象的鼻子反鎖了門](works.md/04Locked.html)
 
-- [沈積岩](works.md/Knight.html)
+- [沈積岩](works.md/05sedimentary.html)
 
-- [支起空白](works.md/Place.html)
+- [支起空白](works.md/06Blank.html)
 
-- [風箏線](works.md/fish.html)
+- [風箏線](works.md/07Kite.html)
 
-- [到達的地方](works.md/sedimentary.html)
+- [到達的地方](works.md/08direction.html)
 
-- [騎士](works.md/.html)
+- [騎士](works.md/09Knight.html)
 
-- [置](works.md/.html)
+- [置](works.md/10Place.html)
 
-- [自由](works.md/.html)
+- [自由](works.md/11free.html)
