@@ -8,10 +8,7 @@ permalink: /contact/
 
 電子郵件：rf.caooooo@gmail.com
 
-FACEBOOK：https://www.facebook.com/cao.rui.fan.2025?
-
-INSTAGRAM：https://www.instagram.com/rf__c__?igsh=MWQxcjMzMTA4bWNhbQ%3D%3D&utm_source=qr
-
-Line：這個就不方便給了...
+<li><a href="https://www.instagram.com/rf__c__" target="_blank">rf__c__</a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100063821510558" target="_blank">曹睿凡</a></li>
 
 我爸是警察，請勿意圖詐騙。
