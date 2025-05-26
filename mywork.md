@@ -10,15 +10,20 @@ permalink: /mywork/
 
 - [躍起](works.md/dimentary.html)
 
-- [作品三](works.md/Blank.html)
+- [魚都知道方向了](works.md/Blank.html)
 
-- [作品四](works.md/Kite.html)
+- [大象的鼻子反鎖了門](works.md/Kite.html)
 
-- [作品五](works.md/Knight.html)
+- [沈積岩](works.md/Knight.html)
 
-- [作品六](works.md/Place.html)
+- [支起空白](works.md/Place.html)
 
-- [作品七](works.md/fish.html)
+- [風箏線](works.md/fish.html)
 
-- [作品八](works.md/sedimentary.html)
+- [到達的地方](works.md/sedimentary.html)
 
+- [騎士](works.md/.html)
+
+- [置](works.md/.html)
+
+- [自由](works.md/.html)
