@@ -6,7 +6,7 @@ permalink: /contact/
 
 連絡電話：
 
-電子郵件：
+電子郵件：rf.caooooo@gmail.com
 
 FB：
 
