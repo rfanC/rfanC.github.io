@@ -6,13 +6,13 @@ permalink: /mywork/
 
 以下是我的部分作品：
 
-- [牧羊犬](works.md/1sheepdog.html)
+- [牧羊犬](works.md/01sheepdog.html)
 
-- [躍起](works.md/dimentary.html)
+- [躍起](works.md/02Tip.html)
 
-- [魚都知道方向了](works.md/Blank.html)
+- [魚都知道方向了](works.md/03fish.html)
 
-- [大象的鼻子反鎖了門](works.md/Kite.html)
+- [大象的鼻子反鎖了門](works.md/04Locked.html)
 
 - [沈積岩](works.md/Knight.html)
 
