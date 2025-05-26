@@ -10,5 +10,5 @@ permalink: /mywork/
 
 - [作品二](works.md/dimentary.html)
 
-- [作品三](works/work3.html)
+- [作品三](works.md/Blank.html)
 
