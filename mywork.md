@@ -8,7 +8,7 @@ permalink: /mywork/
 
 - [牧羊犬](works.md/sheepdog.html)
 
-- [作品二](works.md/Thesedimentary.html)
+- [作品二](works.md/dimentary.html)
 
 - [作品三](works/work3.html)
 
