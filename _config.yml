@@ -1,4 +1,4 @@
-baseurl: ""
+baseurl: "https://rfanc.github.io"
 include:
   - images
 #
