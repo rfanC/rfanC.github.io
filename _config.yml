@@ -1,3 +1,6 @@
+baseurl: ""
+include:
+  - images
 #
 # This file contains configuration flags to customize your site
 #
