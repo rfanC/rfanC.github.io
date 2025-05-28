@@ -10,9 +10,6 @@ permalink: /about/
 
 在《到達的地方》；藝術創作與自我的對話中，看見作品自身的生命，如同並行於自己的生命前進。
 
-這是中文介紹段落，  
-<span class="en-text">This is English text in typewriter font.</span>  
-中文繼續寫。
 
 Cao Rui-Fan was born in Taichung in 2006 and moved to Yunlin County in 2013. She dwells halfway up the mountain, where the earth has always guided her beyond conscious thought. Over time, her senses grew increasingly refined as she attuned herself to the rhythms of nature. It awakened in her a desire to catch every fleeting glimmer of light and every subtle hue in the air.
 
