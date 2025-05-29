@@ -6,7 +6,7 @@ permalink: /contact/
 
 連絡電話：09XX-XXXXXX (我爸說詐騙很多，所以電話號碼留給大家猜，就幾個數字而已...)
 
-電子郵件：rf.caooooo@gmail.com
+電子郵件：[rf.caooooo@gmail.com](mailto:rf.caooooo@gmail.com)
 
 <p>
   Instagram : <a href="https://www.instagram.com/rf__c__" target="_blank">rf__c__</a><br>
