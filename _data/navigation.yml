@@ -1,10 +1,9 @@
-- name: 首頁
-  url: https://rfanC.github.io/
-- name: 關於我
+
+- name: about
   url: /about/
-- name: 我的作品
+- name: works
   url: /mywork/
-- name: 展覽紀錄
+- name: exhibitions
   url: /exhibitions/
-- name: 聯絡資訊
+- name: contact
   url: /contact/
