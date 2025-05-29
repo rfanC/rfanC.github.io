@@ -1,9 +1,8 @@
-
-- name: about
-  url: /about/
 - name: works
   url: /mywork/
 - name: exhibitions
   url: /exhibitions/
+- name: about
+  url: /about/
 - name: contact
   url: /contact/
