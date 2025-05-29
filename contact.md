@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 找我嗎？
+title: 聯絡資訊
 permalink: /contact/
 ---
 
