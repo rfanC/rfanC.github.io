@@ -3,10 +3,16 @@ layout: default
 title: 曹睿凡
 ---
 
-<h1>我的作品集</h1>
+<h1>works</h1>
 
 <div class="gallery">
-  <img src="{{ '/assets/images/works/work1.jpg' | relative_url }}" alt="作品1" />
-  <img src="{{ '/assets/images/works/work2.jpg' | relative_url }}" alt="作品2" />
-  <img src="{{ '/assets/images/works/work3.jpg' | relative_url }}" alt="作品3" />
+  <a href="{{ '/works/' | relative_url }}">
+    <img src="{{ '/assets/images/works/work1.jpg' | relative_url }}" alt="作品縮圖1" />
+  </a>
+  <a href="{{ '/works/' | relative_url }}">
+    <img src="{{ '/assets/images/works/work2.jpg' | relative_url }}" alt="作品縮圖2" />
+  </a>
+  <a href="{{ '/works/' | relative_url }}">
+    <img src="{{ '/assets/images/works/work3.jpg' | relative_url }}" alt="作品縮圖3" />
+  </a>
 </div>
