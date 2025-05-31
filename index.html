@@ -1,37 +1,118 @@
----
-layout: default
-title: 曹睿凡
----
-
-<h1>works</h1>
-
-<div class="gallery">
-  <a href="{{ '/works/' | relative_url }}">
-    <img src="{{ '/assets/images/works/work1.jpg' | relative_url }}" alt="作品縮圖1" />
-  </a>
-  <a href="{{ '/works/' | relative_url }}">
-    <img src="{{ '/assets/images/works/work2.jpg' | relative_url }}" alt="作品縮圖2" />
-  </a>
-  <a href="{{ '/works/' | relative_url }}">
-    <img src="{{ '/assets/images/works/work3.jpg' | relative_url }}" alt="作品縮圖3" />
-  </a>
-</div>
-
----
-layout: default
-title: 首頁
----
-
-<h1>作品集</h1>
-
-<div class="gallery">
-  <a href="{{ '/works/' | relative_url }}">
-    <img src="{{ '/images/jpg/1.jpg' | relative_url }}" alt="作品縮圖1" />
-  </a>
-  <a href="{{ '/works/' | relative_url }}">
-    <img src="{{ '/assets/images/works/work2.jpg' | relative_url }}" alt="作品縮圖2" />
-  </a>
-  <a href="{{ '/works/' | relative_url }}">
-    <img src="{{ '/assets/images/works/work3.jpg' | relative_url }}" alt="作品縮圖3" />
-  </a>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>到達的地方 - 作品集</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f4f4f4;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .thumbnail {
+      text-align: center;
+      border: 1px solid #ddd;
+      padding: 10px;
+      background-color: #fff;
+      border-radius: 5px;
+      transition: transform 0.2s;
+    }
+    .thumbnail img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 3px;
+    }
+    .thumbnail a {
+      text-decoration: none;
+      color: #333;
+      font-size: 16px;
+    }
+    .thumbnail:hover {
+      transform: scale(1.05);
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>作品集</h1>
+  <div class="gallery">
+    <div class="thumbnail">
+      <a href="/work/01sheepdog/">
+        <img src="/images/01sheepdog-thumb.png" alt="牧羊犬縮圖">
+      </a>
+      <p>牧羊犬</p>
+    </div>
+    <div class="thumbnail">
+      <a href="/work/02Tip/">
+        <img src="/images/02Tip-thumb.png" alt="躍起縮圖">
+      </a>
+      <p>躍起</p>
+    </div>
+    <div class="thumbnail">
+      <a href="/work/03fish/">
+        <img src="/images/03fish-thumb.png" alt="魚都知道方向了縮圖">
+      </a>
+      <p>魚都知道方向了</p>
+    </div>
+    <div class="thumbnail">
+      <a href="/work/04Locked/">
+        <img src="/images/04Locked-thumb.png" alt="大象的鼻子反鎖了門縮圖">
+      </a>
+      <p>大象的鼻子反鎖了門</p>
+    </div>
+    <div class="thumbnail">
+      <a href="/work/05sedimentary/">
+        <img src="/images/05sedimentary-thumb.png" alt="沈積岩縮圖">
+      </a>
+      <p>沈積岩</p>
+    </div>
+    <div class="thumbnail">
+      <a href="/work/06Blank/">
+        <img src="/images/06Blank-thumb.png" alt="支起空白縮圖">
+      </a>
+      <p>支起空白</p>
+    </div>
+    <div class="thumbnail">
+      <a href="/work/07Kite/">
+        <img src="/images/07Kite-thumb.png" alt="風箏線縮圖">
+      </a>
+      <p>風箏線</p>
+    </div>
+    <div class="thumbnail">
+      <a href="/work/08direction/">
+        <img src="/images/08direction-thumb.png" alt="到達的地方縮圖">
+      </a>
+      <p>到達的地方</p>
+    </div>
+    <div class="thumbnail">
+      <a href="/work/09Knight/">
+        <img src="/images/09Knight-thumb.png" alt="騎士縮圖">
+      </a>
+      <p>騎士</p>
+    </div>
+    <div class="thumbnail">
+      <a href="/work/10Place/">
+        <img src="/images/10Place-thumb.png" alt="置縮圖">
+      </a>
+      <p>置</p>
+    </div>
+    <div class="thumbnail">
+      <a href="/work/11free/">
+        <img src="/images/11free-thumb.png" alt="自由縮圖">
+      </a>
+      <p>自由</p>
+    </div>
+  </div>
+</body>
+</html>
