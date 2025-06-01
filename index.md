@@ -2,9 +2,10 @@
 layout: null
 title:  – 曹睿凡 – Ruifan Cao
 ---
-<!DOCTYPE html>
-<!-- 宣告文件類型為 HTML5，確保瀏覽器以標準模式渲染頁面 -->
+
 <html>
+  <!DOCTYPE html>
+  <!-- 宣告文件類型為 HTML5，確保瀏覽器以標準模式渲染頁面 -->
   <head>
     <!-- head 標籤包含頁面的元數據（metadata）、樣式和腳本 -->
     <title>創作 Art Works – 曹睿凡 – Ruifan Cao</title>
@@ -94,13 +95,8 @@ title:  – 曹睿凡 – Ruifan Cao
     }
   </style>
   <div class="date">
-    Written on 
   </div>
-
-  
 </article>
-
-    </div>
 
   <div class="carousel">
     <img id="carousel-image" src="/images/jpg/jpg-s/01sheepdog.jpg" alt="作品縮圖">
