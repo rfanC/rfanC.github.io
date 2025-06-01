@@ -17,10 +17,10 @@
 <body>
   <nav>
     <ul>
-      <li><a href="/mywork/">works</a></li>
-      <li><a href="/exhibitions/">exhibitions</a></li>
-      <li><a href="/about/">about</a></li>
-      <li><a href="/contact/">contact</a></li>
+      <!-- <li><a href="/mywork/">works</a></li> -->
+      <!-- <li><a href="/exhibitions/">exhibitions</a></li> -->
+      <!-- <li><a href="/about/">about</a></li> -->
+      <!-- <li><a href="/contact/">contact</a></li> -->
     </ul>
   </nav>
   <div class="carousel">
