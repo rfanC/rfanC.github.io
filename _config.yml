@@ -1,7 +1,7 @@
 include:
   - images
   - /images/jpg/jpg-s/
-  - works.md
+  - works
 #
 # This file contains configuration flags to customize your site
 #
