@@ -1,6 +1,6 @@
 include:
-  - works.md
   - images
+  - works.md
 #
 # This file contains configuration flags to customize your site
 #
