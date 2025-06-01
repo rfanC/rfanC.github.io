@@ -1,5 +1,5 @@
-<!DOCTYPE html>
 <html>
+  <!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <title>創作 Art Works – 曹睿凡 – Ruifan Cao</title>
