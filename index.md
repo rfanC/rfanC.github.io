@@ -27,7 +27,7 @@
   </div>
   <script>
     const works = [
-      { thumb: "/images/jpg/jpg-s/1-s.jpg", url: "/works/01sheepdog.html", alt: "牧羊犬" },
+      { thumb: "https://github.com/rfanC/rfanC.github.io/blob/master/images/jpg/1-s.jpg", url: "/works/01sheepdog.html", alt: "牧羊犬" },
       { thumb: "/images/jpg/jpg-s/2-s.jpg", url: "/works/02Tip.html", alt: "躍起" },
       { thumb: "/images/jpg/jpg-s/3-s.jpg", url: "/works/03fish.html", alt: "魚都知道方向了" },
       { thumb: "/images/jpg/jpg-s/4-s.jpg", url: "/works/04Locked.html", alt: "大象的鼻子反鎖了門" },
