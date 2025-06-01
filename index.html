@@ -63,6 +63,7 @@ title:  – 曹睿凡 – Ruifan Cao
   </ul>
 </nav>
 <!-- 導航欄結束 -->
+    
 <style>
   nav ul {
     list-style: none;
@@ -88,130 +89,39 @@ title:  – 曹睿凡 – Ruifan Cao
 
     </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">      
-<a href="https://github.com/barryclark/jekyll-now"><i class="svg-icon github"></i></a>
-<a href="https://www.twitter.com/jekyllrb"><i class="svg-icon twitter"></i></a>
-        </footer>
-      </div>
-    </div>   
-
-  </body>
-</html>
-<head>
-  <meta charset="UTF-8">
-  <title>到達的地方 - 作品集</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-      background-color: #f4f4f4;
-    }
-    .gallery {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-      gap: 20px;
-      max-width: 1200px;
-      margin: 0 auto;
-    }
-    .thumbnail {
-      text-align: center;
-      border: 1px solid #ddd;
-      padding: 10px;
-      background-color: #fff;
-      border-radius: 5px;
-      transition: transform 0.2s;
-    }
-    .thumbnail img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 3px;
-    }
-    .thumbnail a {
-      text-decoration: none;
-      color: #333;
-      font-size: 16px;
-    }
-    .thumbnail:hover {
-      transform: scale(1.05);
-    }
-    h1 {
-      text-align: center;
-      color: #333;
-    }
-  </style>
-</head>
-<body>
-  <h1>作品集</h1>
-  <div class="gallery">
-    <div class="thumbnail">
-      <a href="/works.md/01sheepdog/">
-        <img src="/images/jpg-s/1-s.jpg" alt="牧羊犬縮圖">
-      </a>
-      <p>牧羊犬</p>
-    </div>
-    <div class="thumbnail">
-      <a href="/work/02Tip/">
-        <img src="/images/jpg-s/2-s.jpg" alt="躍起縮圖">
-      </a>
-      <p>躍起</p>
-    </div>
-    <div class="thumbnail">
-      <a href="/work/03fish/">
-        <img src="/images/jpg-s/3-s.jpg" alt="魚都知道方向了縮圖">
-      </a>
-      <p>魚都知道方向了</p>
-    </div>
-    <div class="thumbnail">
-      <a href="/work/04Locked/">
-        <img src="/images/jpg-s/4-s.jpg" alt="大象的鼻子反鎖了門縮圖">
-      </a>
-      <p>大象的鼻子反鎖了門</p>
-    </div>
-    <div class="thumbnail">
-      <a href="/work/05sedimentary/">
-        <img src="/images/jpg-s/5-s.jpg" alt="沈積岩縮圖">
-      </a>
-      <p>沈積岩</p>
-    </div>
-    <div class="thumbnail">
-      <a href="/work/06Blank/">
-        <img src="/images/jpg-s/6-s.jpg" alt="支起空白縮圖">
-      </a>
-      <p>支起空白</p>
-    </div>
-    <div class="thumbnail">
-      <a href="/work/07Kite/">
-        <img src="/images/jpg-s/7-s.jpg" alt="風箏線縮圖">
-      </a>
-      <p>風箏線</p>
-    </div>
-    <div class="thumbnail">
-      <a href="/work/08direction/">
-        <img src="/images/jpg-s/8-s.jpg" alt="到達的地方縮圖">
-      </a>
-      <p>到達的地方</p>
-    </div>
-    <div class="thumbnail">
-      <a href="/work/09Knight/">
-        <img src="/images/jpg-s/9-s.jpg" alt="騎士縮圖">
-      </a>
-      <p>騎士</p>
-    </div>
-    <div class="thumbnail">
-      <a href="/work/10Place/">
-        <img src="/images/jpg-s/10-s.jpg" alt="置縮圖">
-      </a>
-      <p>置</p>
-    </div>
-    <div class="thumbnail">
-      <a href="/work/11free/">
-        <img src="/images/jpg-s/11-s.jpg" alt="自由縮圖">
-      </a>
-      <p>自由</p>
-    </div>
+  <div class="carousel">
+    <img id="carousel-image" src="/images/jpg/jpg-s/01sheepdog.jpg" alt="作品縮圖">
   </div>
+  <script>
+    const works = [
+      { thumb: "/images/jpg/jpg-s/01sheepdog.jpg", url: "/works.md/01sheepdog.html", alt: "牧羊犬" },
+      { thumb: "/images/jpg/jpg-s/02Tip.jpg", url: "/works.md/02Tip.html", alt: "躍起" },
+      { thumb: "/images/jpg/jpg-s/03fish.jpg", url: "/works.md/03fish.html", alt: "魚都知道方向了" },
+      { thumb: "/images/jpg/jpg-s/04Locked.jpg", url: "/works.md/04Locked.html", alt: "大象的鼻子反鎖了門" },
+      { thumb: "/images/jpg/jpg-s/05sedimentary.jpg", url: "/works.md/05sedimentary.html", alt: "沈積岩" },
+      { thumb: "/images/jpg/jpg-s/06Blank.jpg", url: "/works.md/06Blank.html", alt: "支起空白" },
+      { thumb: "/images/jpg/jpg-s/07Kite.jpg", url: "/works.md/07Kite.html", alt: "風箏線" },
+      { thumb: "/images/jpg/jpg-s/08direction.jpg", url: "/works.md/08direction.html", alt: "到達的地方" },
+      { thumb: "/images/jpg/jpg-s/09Knight.jpg", url: "/works.md/09Knight.html", alt: "騎士" },
+      { thumb: "/images/jpg/jpg-s/10Place.jpg", url: "/works.md/10Place.html", alt: "置" },
+      { thumb: "/images/jpg/jpg-s/11free.jpg", url: "/works.md/11free.html", alt: "自由" }
+    ];
+
+    let currentIndex = 0;
+    const imageElement = document.getElementById("carousel-image");
+
+    function updateImage() {
+      imageElement.src = works[currentIndex].thumb;
+      imageElement.alt = works[currentIndex].alt;
+      currentIndex = (currentIndex + 1) % works.length;
+    }
+
+    imageElement.addEventListener("click", () => {
+      window.open(works[currentIndex].url, "_blank");
+    });
+
+    updateImage();
+    setInterval(updateImage, 5000);
+  </script>
 </body>
 </html>
