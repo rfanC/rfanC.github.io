@@ -1,6 +1,6 @@
 include:
   - images
-  - /images/jpg/jpg-s/
+  - images/jpg/jpg-s/
   - works
 #
 # This file contains configuration flags to customize your site
