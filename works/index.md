@@ -27,17 +27,17 @@
   </div>
   <script>
     const works = [
-      { thumb: "/images/jpg/jpg-s/1-s.jpg", url: "/works/01sheepdog.html", alt: "牧羊犬" },
+      { thumb: "/images/jpg/jpg-s/1-s.jpg", url: "/https://rfanc.github.io/01sheepdog.html", alt: "牧羊犬" },
       { thumb: "/images/jpg/jpg-s/2-s.jpg", url: "/https://rfanc.github.io/02Tip/", alt: "躍起" },
-      { thumb: "/images/jpg/jpg-s/3-s.jpg", url: "/works/03fish.html", alt: "魚都知道方向了" },
-      { thumb: "/images/jpg/jpg-s/4-s.jpg", url: "/works/04Locked.html", alt: "大象的鼻子反鎖了門" },
-      { thumb: "/images/jpg/jpg-s/5-s.jpg", url: "/works/05sedimentary.html", alt: "沈積岩" },
-      { thumb: "/images/jpg/jpg-s/6-s.jpg", url: "/works/06Blank.html", alt: "支起空白" },
-      { thumb: "/images/jpg/jpg-s/7-s.jpg", url: "/works/07Kite.html", alt: "風箏線" },
-      { thumb: "/images/jpg/jpg-s/8-s.jpg", url: "/works/08direction.html", alt: "到達的地方" },
-      { thumb: "/images/jpg/jpg-s/9-s.jpg", url: "/works/09Knight.html", alt: "騎士" },
-      { thumb: "/images/jpg/jpg-s/10-s.jpg", url: "/works/10Place.html", alt: "置" },
-      { thumb: "/images/jpg/jpg-s/11-s.jpg", url: "/works/11free.html", alt: "自由" }
+      { thumb: "/images/jpg/jpg-s/3-s.jpg", url: "/https://rfanc.github.io/03fish.html", alt: "魚都知道方向了" },
+      { thumb: "/images/jpg/jpg-s/4-s.jpg", url: "/https://rfanc.github.io/04Locked.html", alt: "大象的鼻子反鎖了門" },
+      { thumb: "/images/jpg/jpg-s/5-s.jpg", url: "/https://rfanc.github.io/05sedimentary.html", alt: "沈積岩" },
+      { thumb: "/images/jpg/jpg-s/6-s.jpg", url: "/https://rfanc.github.io/06Blank.html", alt: "支起空白" },
+      { thumb: "/images/jpg/jpg-s/7-s.jpg", url: "/https://rfanc.github.io/07Kite.html", alt: "風箏線" },
+      { thumb: "/images/jpg/jpg-s/8-s.jpg", url: "/https://rfanc.github.io/08direction.html", alt: "到達的地方" },
+      { thumb: "/images/jpg/jpg-s/9-s.jpg", url: "/https://rfanc.github.io/09Knight.html", alt: "騎士" },
+      { thumb: "/images/jpg/jpg-s/10-s.jpg", url: "/https://rfanc.github.io/10Place.html", alt: "置" },
+      { thumb: "/images/jpg/jpg-s/11-s.jpg", url: "/https://rfanc.github.io/11free.html", alt: "自由" }
     ];
     let currentIndex = 0;
     const imageElement = document.getElementById("carousel-image");
