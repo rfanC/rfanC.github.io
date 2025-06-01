@@ -40,17 +40,25 @@
       { thumb: "/images/jpg/jpg-s/11-s.jpg", url: "/https://rfanc.github.io/11free.html", alt: "自由" }
     ];
     let currentIndex = 0;
-    const imageElement = document.getElementById("carousel-image");
-    function updateImage() {
-      imageElement.src = works[currentIndex].thumb;
-      imageElement.alt = works[currentIndex].alt;
-      currentIndex = (currentIndex + 1) % works.length;
-    }
-    imageElement.addEventListener("click", () => {
-      window.open(works[currentIndex].url, "_blank");
-    });
-    updateImage();
-    setInterval(updateImage, 5000);
+const imageElement = document.getElementById("carousel-image");
+
+function updateImage() {
+  imageElement.src = works[currentIndex].thumb;
+  imageElement.alt = works[currentIndex].alt;
+}
+
+imageElement.addEventListener("click", () => {
+  window.open(works[currentIndex].url, "_blank");
+  currentIndex = (currentIndex + 1) % works.length; // 在點擊後才遞增
+  updateImage();
+});
+
+setInterval(() => {
+  currentIndex = (currentIndex + 1) % works.length;
+  updateImage();
+}, 5000);
+
+updateImage();
   </script>
 </body>
 </html>
